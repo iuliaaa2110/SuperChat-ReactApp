@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { Card, CardBody, Container } from 'reactstrap';
 import IPageProps from '../../interfaces/page';
